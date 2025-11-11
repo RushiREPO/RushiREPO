@@ -1,7 +1,7 @@
 ### Hi there, I'm Rushikesh shivshette 👋
 
 - 🔭 I’m currently working on Age and Gender Detection Project
-- 🌱 I’m currently learning PHP Language 
+- 🌱 I’m currently learning R Language 
 - 👯 I’m looking to collaborate on Youtube & in Community 
 - 🤔 I’m looking for help with myself 
 - 💬 Ask me about Data Analytics or any Tech Related Stuff.
